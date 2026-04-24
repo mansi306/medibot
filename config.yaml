@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    mansipatil:
+      name: Mansi Patil
+      password: "$2b$12$tDb9llmacbX1yuRW26p9bu8yDJUNcEgLrhI1dBO0stfC8R01ptCQi"
+
+cookie:
+  expiry_days: 1
+  key: "your_random_signature_key"
+  name: "medibot_auth"
+
+preauthorized:
+  emails:
+    - mp8551142@gmail.com

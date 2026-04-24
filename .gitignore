@@ -1,0 +1,8 @@
+llm_env/
+vectorstore/
+vectorstore.zip
+data/
+.env
+__pycache__/
+*.pyc
+temp.wav
